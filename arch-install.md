@@ -154,8 +154,8 @@ vim ~/.config/i3/config
 ## Other applications
 
 ```bash
-sudo pacman -S network-manager-applet terminator baobab neofetch
-aurman -S sublime-text-dev google-chrome-dev
+sudo pacman -S network-manager-applet rxvt-unicode baobab neofetch lxappearance arc-gtk-theme
+aurman -S sublime-text-dev google-chrome-dev tamzen-font numix-circle-arc-icons-git
 ```
 
 ## i3wm config
